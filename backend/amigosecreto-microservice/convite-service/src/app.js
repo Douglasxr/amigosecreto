@@ -16,16 +16,16 @@ var remetente = nodemailer.createTransport({
     
     user: 'email@hotmail.com',
     
-    pass: 'pro3600' }
+    pass: '1234' }
     
     });
 
 
     var emailASerEnviado = {
 
-        from: 'd.x.r.doug@hotmail.com',
+        from: 'douglas@hotmail.com',
         
-        to: 'douglasrodrigues77@live.com',
+        to: 'gouglas@live.com',
         
         subject: 'Enviando Email com Node.js',
         

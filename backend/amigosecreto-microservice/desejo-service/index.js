@@ -3,9 +3,8 @@ const mongoose = require ('mongoose');
 const routes = require('./routes/routes');
 
 const app = express ();
-app.listen(3333);
-app.listen(3334);
-app.listen(3335);
+
+app.listen(3336);
 app.use (express.json());
 app.use(routes);
 
