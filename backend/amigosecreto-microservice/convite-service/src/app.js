@@ -14,9 +14,9 @@ var remetente = nodemailer.createTransport({
     
     auth:{
     
-    user: 'd.x.r.doug@hotmail.com',
+    user: 'email@hotmail.com',
     
-    pass: 'p30P1334wsx' }
+    pass: 'pro3600' }
     
     });
 
