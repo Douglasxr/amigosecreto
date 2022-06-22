@@ -22,3 +22,5 @@ const grupoSchema = new mongoose.Schema({
     }]
 });
 module.exports = mongoose.model('Grupo',grupoSchema);
+
+
